@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vickyesantillan/intro-to-express/issues"
   },
-  "homepage": "https://github.com/vickyesantillan/intro-to-express#readme"
+  "homepage": "https://github.com/vickyesantillan/intro-to-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
